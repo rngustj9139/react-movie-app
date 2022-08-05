@@ -43,7 +43,7 @@
     padding: 0;
     margin: 0;
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: wrap; /* flex-wrap 속성은 나열 된 (정렬 된) 요소들의 총 넓이가 부모 넓이 보다 클 때, 이 요소들을 다음 줄에 이어서 나열(정렬) 해주는 기능입니다. */
     margin: 5px 0px;
   }
   

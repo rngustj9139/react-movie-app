@@ -1,6 +1,5 @@
 import {useParams} from 'react-router-dom' // useParams는 url에 있는 동적 변수를 가져오게 해준다.
 import {useEffect} from 'react'
-import { getMouseEventOptions } from '@testing-library/user-event/dist/utils'
 
 function Detail() {
     let {id} = useParams()

@@ -27,7 +27,7 @@ function Home() {
     
     return (
       <div className={styles.container}>
-          {loading ? <div className={styles.loader}><span>"Loading..."</span></div> : null}
+        {loading ? <div className={styles.loader}><span>"Loading..."</span></div> : null}
 
         <div className={styles.movies}>
           {movies.map((movie) => (
