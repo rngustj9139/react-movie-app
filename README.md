@@ -1,1 +1,1 @@
-http://localhost:3000/react-movie-app/
+https://rngustj9139.github.io/react-movie-app/
